@@ -1,4 +1,4 @@
-## Data Science Professional
+## Who Am I?
 A military-trained and detail-oriented data science professional who uses well-honed leadership, research skills, and advanced data science techniques to create informative translations of real-world data, develop actionable business insights, and enhance customer engagement to elevate industry-leading companies
 
 ### LinkedIn Profile: <a href=https://www.linkedin.com/in/ryanhpark>Click Here</a>
