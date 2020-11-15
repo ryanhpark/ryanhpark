@@ -5,7 +5,7 @@ A military-trained and detail-oriented data science professional who uses well-h
 ### Blog Posts (Click The Title)
 • <a href=https://nycdatascience.com/blog/student-works/capstone/identifying-provider-fraud-for-healthcare-insurers/>Classification Team Project: Identifying Provider Fraud For Healthcare Insurers</a><br>
 • <a href=https://nycdatascience.com/blog/student-works/machine-learning/predicting-and-maximizing-home-values-for-data-mining-firms/>Regression Team Project: Predicting and Maximizing Home Values for Data Mining Firms</a><br>
-• <a href=https://nycdatascience.com/blog/student-works/which-streaming-service-should-i-subscribe-to/>Web Scraping: Which Streaming Service Should I Subscribe to?</a>
+• <a href=https://nycdatascience.com/blog/student-works/which-streaming-service-should-i-subscribe-to/>Web Scraping Project: Which Streaming Service Should I Subscribe to?</a>
 
 
 
