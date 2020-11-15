@@ -1,7 +1,7 @@
 ## Who Am I?
 A military-trained and detail-oriented data science professional who uses well-honed leadership, research skills, and advanced data science techniques to create informative translations of real-world data, develop actionable business insights, and enhance customer engagement to elevate industry-leading companies<br>
 • LinkedIn Profile: <a href=https://www.linkedin.com/in/ryanhpark>Click Here</a>
-### Blog Posts (Click The Title)
+### Portfolio (Click The Title To Go To Blog Post)
 • Classification Team Project: <a href=https://nycdatascience.com/blog/student-works/capstone/identifying-provider-fraud-for-healthcare-insurers/>Identifying Provider Fraud For Healthcare Insurers</a><br>
 Minimized revenue loss of $100,000 while achieving consistently high recall scores across multiple classification models after conducting extensive data wrangling and feature engineering to detect healthcare fraud<br>
 &nbsp;&nbsp;&nbsp;Repo: <a href=https://github.com/ryanhpark/HealthcareFraud_Classification>HealthcareFraud_Classification</a><br><br>
