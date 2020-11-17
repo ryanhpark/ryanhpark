@@ -13,7 +13,6 @@ Shared insights to home buyers and homeowners about what features affect home va
 Recommended top streaming services based on comparisons among 5 companies (Amazon Prime, Disney Plus, HBO Max, Hulu, and Netflix) after scraping over 27,000 movies and TV shows from reelgood.com<br>
 
 • <b>Interactive Data Visualization Project</b>: <a href=https://nycdatascience.com/blog/r/know-whats-in-the-air-you-breathe-in-seoul/>Know What's In The Air You Breathe In Seoul</a>&nbsp;&nbsp;•<a href=https://github.com/ryanhpark/Seoul_Air_Pollution_Shiny>Repository</a><br>
-<br>
 Visualized and mapped the patterns and trends of air pollution in Seoul, South Korea by creating an interactive R shiny dashboard<br>
 
 
