@@ -18,6 +18,6 @@ Created and launched an interactive R shiny web dashboard to visualize and map t
 
 
 ### Technical Skills
-• Machine Learning: Linear Models, Regularization, Random Forest, Gradient Boosting, Naive Bayes, SVM, KNN, PCA<br>
-• Languages: Python (pandas, numpy, matplotlib, seaborn, scikit-learn), R (dplyr, ggplot2, shiny, leaflet, plotly), SQL<br>
-• Systems: Git/Github, Tableau, QGIS, MS Office<br>
+• Machine Learning: Machine Learning: Linear Models, Random Forest, Gradient Boosting Trees, Naive Bayes, KNN, SVM<br>
+• Languages: Python, R, SQL, Stata<br>
+• Systems: Git, Linux, Tableau, QGIS<br>
